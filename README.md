@@ -1,1 +1,1 @@
-SecundsToH-M.vi
+ConvertTime.vi
