@@ -1,1 +1,1 @@
-Get Size.vi
+UserInterfaceEventPattern.vi
