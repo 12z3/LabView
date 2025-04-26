@@ -1,1 +1,1 @@
-XYGraph.vi
+ColorsTable.vi
