@@ -1,1 +1,1 @@
-ColorsTable.vi
+RndGenerator.vi
