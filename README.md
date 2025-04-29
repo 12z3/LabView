@@ -1,1 +1,1 @@
-RndGenerator.vi
+MinMax.vi
