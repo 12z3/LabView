@@ -1,1 +1,1 @@
-MinMax.vi
+Messages.vi
