@@ -1,2 +1,2 @@
-Tables.vi
+StdsXYGraph.vi
 
