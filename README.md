@@ -1,2 +1,2 @@
-Deviation.vi
+OpenChekResTab.vi
 
