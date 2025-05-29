@@ -1,2 +1,2 @@
-OpenChekResTab.vi
+CollorCellsInTableOnly.vi
 
