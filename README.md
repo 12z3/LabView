@@ -1,2 +1,2 @@
-CollorCellsInTableOnly.vi
+CheckResultMatchResTest.vi
 
