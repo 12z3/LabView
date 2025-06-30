@@ -1,1 +1,1 @@
-IOManipulating.vi
+Decrease Dimension.vi
