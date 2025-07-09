@@ -1,1 +1,1 @@
-AllAvrStdGraph.vi
+New649DigitGen.vi
