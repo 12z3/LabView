@@ -1,1 +1,1 @@
-New649DigitGen.vi
+tmpStatistic.vi
