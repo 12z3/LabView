@@ -1,1 +1,1 @@
-DskTypeDef.ctl
+WaveFormDeviation.vi
