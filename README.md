@@ -1,1 +1,1 @@
-CollorCellsInTableOnly copy.vi
+GDeviationStatistics.vi
